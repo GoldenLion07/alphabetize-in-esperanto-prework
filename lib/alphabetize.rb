@@ -6,3 +6,7 @@ def alphabetize(arr)
     end
   end
 end
+
+arr = ["mi amas vin", "bonan matenon", "pacon", "ĉu vi parolas esperanton"]
+
+alphabetize(arr)
